@@ -24,7 +24,7 @@ class _HomeViewState extends State<HomeView> {
             const Padding(
               padding: EdgeInsets.symmetric(horizontal: 70),
               child: Text(
-                "Welcome Anubhav ",
+                "Welcome  ",
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 30,
